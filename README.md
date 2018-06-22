@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Worlds::Best::Countries::Cli::App
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/worlds/best/countries/cli/app`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -41,3 +42,7 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the Worlds::Best::Countries::Cli::App project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/'Joeycho'/worlds-best-countries-cli-app/blob/master/CODE_OF_CONDUCT.md).
+=======
+# top10countries-cli-app
+Frist project on my way to learn Ruby
+>>>>>>> a9214764aa95cdad87575cd1560dd67bcf1e83b5
