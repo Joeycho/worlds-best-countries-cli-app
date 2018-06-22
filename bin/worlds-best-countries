@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require_relative "../lib/worlds_best_countries"
+
+WorldsBestCountries::CLI.new.call
