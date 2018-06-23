@@ -12,7 +12,7 @@ Welcome to Worlds Best Countries to visit in 2018. The country list is reccommen
 
 After installation execute:
 
-$ ./bin/worlds-best-countries
+'$ ./bin/worlds-best-countries'
 
 This will lead you to start this gem, and it will show you the list of countries.
 
