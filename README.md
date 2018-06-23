@@ -1,5 +1,5 @@
 
-# WorldsBestCountries::Cli::App
+# WorldsBestCountries::CLI::App
 
 Welcome to Worlds Best Countries to visit in 2018. The country list is reccommended from Lonely Planet. First of all, You'll see the list of countries, and you can see more details of the country by putting the number.
 ## Installation
@@ -12,7 +12,7 @@ Welcome to Worlds Best Countries to visit in 2018. The country list is reccommen
 
 After installation execute:
 
-'$ ./bin/worlds-best-countries'
+`$ ./bin/worlds-best-countries`
 
 This will lead you to start this gem, and it will show you the list of countries.
 
@@ -32,8 +32,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Worlds::Best::Countries::Cli::App project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/'Joeycho'/worlds-best-countries-cli-app/blob/master/CODE_OF_CONDUCT.md).
-=======
-# top10countries-cli-app
-Frist project on my way to learn Ruby
->>>>>>> a9214764aa95cdad87575cd1560dd67bcf1e83b5
+Everyone interacting in the WorldsBestCountries::CLI::App project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/'Joeycho'/worlds-best-countries-cli-app/blob/master/CODE_OF_CONDUCT.md).
