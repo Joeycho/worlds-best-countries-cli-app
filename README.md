@@ -7,13 +7,10 @@ Welcome to Worlds Best Countries to visit in 2018. The country list is reccommen
 
     $ bundle install
 
-Or install it yourself as:
-
-    $ gem install worlds-best-countries-cli-app
 
 ## Usage
 
-After installation,
+After installation execute:
 
 $ ./bin/worlds-best-countries
 
