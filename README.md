@@ -1,21 +1,11 @@
-<<<<<<< HEAD
-# Worlds::Best::Countries::Cli::App
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/worlds/best/countries/cli/app`. To experiment with that code, run `bin/console` for an interactive prompt.
+# WorldsBestCountries::Cli::App
 
-TODO: Delete this and the text above, and describe your gem
-
+Welcome to Worlds Best Countries to visit in 2018. The country list is reccommended from Lonely Planet. First of all, You'll see the list of countries, and you can see more details of the country by putting the number.
 ## Installation
+ Execute:
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'worlds-best-countries-cli-app'
-```
-
-And then execute:
-
-    $ bundle
+    $ bundle install
 
 Or install it yourself as:
 
@@ -23,7 +13,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+After installation,
+
+$ ./bin/worlds-best-countries
+
+This will lead you to start this gem, and it will show you the list of countries.
 
 ## Development
 
