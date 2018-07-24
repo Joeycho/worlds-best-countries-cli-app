@@ -1,14 +1,16 @@
 class WorldsBestCountries::CLI
 
   def call
+
+    WorldsBestCountries::Scraper.scrape_lonely
     list_countries
     ask_answer
+
   end
 
   def list_countries
     puts "Here is the country lists"
 
-    WorldsBestCountries::Country.scrape_lonely
     @countries = WorldsBestCountries::Country.all
 
     @countries.each do |country|
@@ -42,9 +44,10 @@ class WorldsBestCountries::CLI
     answer = gets.strip
   #  binding.pry
 
-    if answer == "Y"
-      call
-    elsif answer == "N"
+    if answer == "Y" || answer == 'y'
+      list_countries
+      ask_answer
+    elsif answer == "N" || answer == 'n'
       goodbye
     else
     puts "The answer was wrong. Try again"
